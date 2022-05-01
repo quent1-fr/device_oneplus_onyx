@@ -44,4 +44,4 @@ TARGET_VENDOR := oneplus
 TARGET_VENDOR_PRODUCT_NAME := onyx
 
 # Unofficial build ID
-TARGET_UNOFFICIAL_BUILD_ID := quent1
+TARGET_UNOFFICIAL_BUILD_ID := signature-spoofing-quent1
